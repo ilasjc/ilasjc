@@ -179,6 +179,9 @@ tbody tr:nth-child(odd) th {
   color: rgba(255,255,255,.5);
   background-color: #000;
   overflow: auto;
+}
+.sidebar.img {
+  display: block;
   margin: auto;
 }
 @media (min-width: 48em) {
@@ -189,6 +192,8 @@ tbody tr:nth-child(odd) th {
     bottom: 0;
     width: 18rem;
     text-align: left;
+  }
+  .sidebar.img {
     float: left;
   }
 }
