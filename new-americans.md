@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: New Americans and Refugees
 ---
 
 ## New Americans and Refugees  
