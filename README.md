@@ -1,9 +1,9 @@
-# ILA SJC Testing Site  
+# ILA Social Justice Committee Resources Site  
 
-## What should this "organization" be called?  
+## Purpose  
 
-The organization name will appear before github.io in our url.  
+We've made this site to help Idahoans, and Idahoans who work in libraries, find resources and organizations to help make Idaho communities stronger and more equitable.  
 
-## What content should we have beyond the individual pages of resources?  
+## Technology Used  
 
-I'm thinking a brief description of the Committee, plus a link to the NationBuilder site and maybe our Google interest form.  
+This site is made using Jekyll, as well as the BlackDoc theme by Karlo Espiritu, which itself is based on Poole. GitHub Pages is the host, which provides https by default.  
