@@ -179,6 +179,7 @@ tbody tr:nth-child(odd) th {
   color: rgba(255,255,255,.5);
   background-color: #000;
   overflow: auto;
+  margin: auto;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -188,6 +189,7 @@ tbody tr:nth-child(odd) th {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    float: left;
   }
 }
 
