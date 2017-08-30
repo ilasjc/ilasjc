@@ -182,7 +182,8 @@ tbody tr:nth-child(odd) th {
 }
 .sidebar.img {
   display: block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 @media (min-width: 48em) {
   .sidebar {
