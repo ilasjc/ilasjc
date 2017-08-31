@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing BlackDoc
+published: false
 ---
 
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
