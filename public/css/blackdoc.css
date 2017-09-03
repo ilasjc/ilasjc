@@ -318,6 +318,61 @@ a.sidebar-nav-item:focus {
  * within blog posts. To use, add the class of your choosing to the `body`.
  */
 
+/* Ryan's new themes */  
+
+/* Citrus */  
+
+.theme-citrus .sidebar {
+  color: #ccc;
+  background-color: #0c9;
+}
+
+.theme-citrus .sidebar a {
+  color: #;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: ;
+} 
+
+.theme-citrus .content a,
+.theme-citrus .related-posts li a:hover {
+  color: ;
+}
+
+/* Sage Steppe */
+
+/* Your Theme Variables */  
+
+
+
+/* Mia and Also Mia (http://www.color-hex.com/color-palette/29181) */  
+
+body.theme-mia{
+  color: #1b9b8e; 
+  background-color: #002828;
+}
+
+.theme-mia .sidebar {
+  color: #004242;
+  background-color: #FFC247;
+}
+
+.theme-mia .sidebar a {
+  color: #115F59;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #115F59;
+} 
+
+.theme-mia .content a,
+.theme-mia .related-posts li a:hover {
+  color: #63ca8f;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #63ca8f;
+}
+
+
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
 /* Red */
