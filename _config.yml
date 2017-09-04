@@ -8,9 +8,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Idaho Library Association's Social Justice Committee
+title:            ILA SJC Resource Guide
 tagline:          Idaho Library Association's Social Justice Committee
-description:      "Links and resources to help improve Idaho communities"
+description:      "Resources to help improve Idaho communities, compiled by the Idaho Library Association's Social Justice Committee."
 locale:           en_US
 url:              https://ilasjc.github.io/
 baseurl:          https://ilasjc.github.io/
