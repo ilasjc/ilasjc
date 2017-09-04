@@ -21,6 +21,7 @@ author:
 
 paginate:         5
 markdown:         kramdown  
+  auto_ids:       true
 
 # Custom vars
 version:          1.0.1
