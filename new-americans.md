@@ -1,12 +1,13 @@
 ---
 layout: page
 title: New Americans and Refugees
+published: true
 ---
 
-## Section One    
+## Section One  
 
 [International Rescue Committee](https://www.rescue.org)  
-[International Rescue Committee in Boise](https://www.rescue.org/united-states/boise-id) 
+[International Rescue Committee in Boise](https://www.rescue.org/united-states/boise-id)  
 
 ## Section Two  
 
