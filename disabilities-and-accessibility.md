@@ -10,7 +10,7 @@ published: true
   Hi there! We will be adding resources to this page very soon.
 </p>
 
-## Website Accessibility Resources  
+## Website Creation with Accessibility in Mind    
 
 W3C's [Web Content Accessibility Guidelines 2.0 Checklist](https://www.w3.org/TR/2005/WD-WCAG20-20050630/checklist)  
 Web Accessibility in Mind's [WEBAIM page](http://webaim.org) has many tutorials and tools  
@@ -22,3 +22,4 @@ Accesssify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/a
 
 ASCLA's [Library Accessibility Tipsheets](http://www.ala.org/ascla/resources/tipsheets) offer tips to help library workers understand and manage access issues across a range of accessibility issues.  
 ASCLA's [Think Accessibile Before You Buy](http://www.ala.org/ascla/asclaprotools/thinkaccessible/default) provides questions to ask before purchasing electronic resources.  
+Also, see the above section on [website creation with accessibility in mind](https://ilasjc.github.io/disabilities-and-accessibility/#website-accessibility-resources).  
