@@ -20,6 +20,7 @@ author:
   url:            https://twitter.com/
 
 paginate:         5
+markdown:         kramdown  
 
 # Custom vars
 version:          1.0.1
