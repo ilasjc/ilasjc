@@ -4,7 +4,7 @@ title: Disabilities and Accessibility
 published: true  
 ---  
 
-{:toc}
+{% include toc.html %}
 
 <p class="message">
   Hi there! We will be adding resources to this page very soon.
