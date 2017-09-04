@@ -18,14 +18,6 @@ WEBAIM's [WAVE (Web Accessibility Evaluation tool)](http://wave.webaim.org) exam
 [Color-Hex](http://www.color-hex.com) isn't strictly a tool for accessibility, but gives different shades and tints related to a color. If WAVE says you need to increase color contrast, Color-Hex can help you balance your aesthetic preferences with the contrast necessary for accessibility.  
 Accesssify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/accessibility-tools/table-builder/) helps you quickly make html tables that are accessible to screen readers.  
 
-### Test Level Three  
-
-#### Test Level Four  
-
-##### Test Level Five  
-
-###### Test Level Six  
-
 ## Resources for Library Workers  
 
 ASCLA's [Library Accessibility Tipsheets](http://www.ala.org/ascla/resources/tipsheets) offer tips to help library workers understand and manage access issues across a range of accessibility issues.  
