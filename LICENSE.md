@@ -1,7 +1,3 @@
----  
-published: true  
----  
-
 # License
 
 This is dual-licensed under both CC-BY-SA and MIT licenses.
