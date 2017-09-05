@@ -194,9 +194,16 @@ tbody tr:nth-child(odd) th {
     width: 18rem;
     text-align: left;
   }
-  .sidebar img {
+  .sidebar img.left {
     float: left;
   }
+  
+  .sidebar img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
 }
 
 /* Sidebar links */
