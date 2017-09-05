@@ -12,8 +12,10 @@ title:            ILA SJC Resource Guide
 tagline:          Idaho Library Association's Social Justice Committee
 description:      "Resources to help improve Idaho communities, compiled by the Idaho Library Association's Social Justice Committee."
 locale:           en_US
-url:              https://ilasjc.github.io/
-baseurl:          https://ilasjc.github.io/
+timezone: America/Boise
+lifespan:         2017
+url:              https://ilasjc.github.io/ # use `/` when building for localhost
+baseurl:          https://ilasjc.github.io/ # use `/` when building for localhost
 
 author:
   name:           "Idaho Library Association's Social Justice Committee"
@@ -21,6 +23,16 @@ author:
 
 paginate:         5
 markdown:         kramdown  
+
+kramdown: 
+  auto_ids: true
+  input: GFM
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+     default_lang: html
 
 # Custom vars
 version:          1.0.1

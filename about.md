@@ -5,15 +5,12 @@ title: About
 
 ## About This Site  
 
-This site is meant to help you find or share resources. It's built by the Idaho Library Association's Social Justice Committee to support our communities.  
+### Site Purpose  
 
-The site is built using [Jekyll](https://jekyllrb.com) and a modified version of Karlo Espiritu's [BlackDoc Theme](https://github.com/karloespiritu/BlackDoc). It's hosted on [Github Pages](https://pages.github.com).  
+This site is meant to help you find or share resources. It's built by the Idaho Library Association's [Social Justice Committee](http://www.idaholibraries.org/social_justice_committee) to support our communities.  
 
-You're [welcome to adapt]( {{ site.baseurl }}{% link LICENSE.md %} ) this site for your own needs.  
+### Technical Information  
 
-## About BlackDoc Theme
+This site is built using [Jekyll](https://jekyllrb.com) and is hosted on [Github Pages](https://pages.github.com). The theme is a modified version of Karlo Espiritu's [BlackDoc Theme](https://github.com/karloespiritu/BlackDoc), which itself uses both [Poole](http://getpoole.com) and [Hyde](https://hyde.getpoole.com). The heading links use Bryan Braun's [Anchor.js](https://www.bryanbraun.com/anchorjs/).  
 
-Some relevant information about this project:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](https://hyde.getpoole.com) theme
+You're [welcome to adapt]( {{ site.baseurl }}/LICENSE.md ) this site for your own needs.  
