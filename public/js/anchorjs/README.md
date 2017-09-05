@@ -1,3 +1,7 @@
+---  
+published: false
+---
+
 # AnchorJS [![Build Status](https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat)](https://travis-ci.org/bryanbraun/anchorjs)
 
 A JavaScript utility for adding deep anchor links ([like these](http://ux.stackexchange.com/q/36304/33248)) to existing page content. AnchorJS is lightweight, accessible, and has no dependencies.
