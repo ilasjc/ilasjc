@@ -15,8 +15,8 @@ published: false # the only other option is "true." changing this to "true" will
   The `{% include toc.html %}` below will automatically add a table of contents made up of clickable links to the various headings in this file.   
   
   Headings:  
-  To make a heading, start a new line with use the same number of `#` as the heading level, from h1 to h6. For accessibility reasons, the only #h1 (or in regular html, <h1>) on a page should be the title. So always use at least two, like:  
-  ## heading level two  
+  To make a heading, start a new line with use the same number of `#` as the heading level, from h1 to h6. For accessibility reasons, the only `#h1` (or in regular html, `<h1>) on a page should be the title. So always use at least two, like:  
+  `## heading level two`  
   
   I've added something called Anchor.js so that we can share URL links straight to headings inside of any of these pages. If you want to override that and make there _not_ be a link to any particular heading, add `{:.no-anchor}` to the very first line after that heading. For an example, see lines 6 and 7 on the `about.md` file and compare that heading to the rest of the headings on our published GitHub Pages page.  
   
