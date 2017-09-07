@@ -2,6 +2,7 @@
 layout: post # the only other option is "page", for blog pages. see the page template in the main folder.  
 title: post-template # this will be the <h1> of the published post's page (each post will be on its own page). the title here doesn't have to be the same as the name of this file.  
 published: false # the only other option is "true." changing this to "true" will publish the post as a page and add it to our posts list automatically. github will automatically publish any file that starts at least two sets of `---` and ends with `.md`. including "published: false" lets us work on this file until we feel it's ready to go truly live… but people can still see our drafts if they know where to look on github.  
+published: false  
 ---  
 
 {% comment %}  
