@@ -29,9 +29,9 @@ published: true
 [MentalHealth.gov](https://www.mentalhealth.gov/index.html) from the U.S. Department of Health & Human Services offers information and a treatment locator.  
 [NAMI](https://www.nami.org), the National Alliance on Mental Illness. They offer additional resources tailored for:  
 
-- [Diverse Communities](https://www.nami.org/Find-Support/Diverse-Communities)  
+- [Diverse Communities](https://www.nami.org/Find-Support/Diverse-Communities)  
 - [African Americans](https://www.nami.org/Find-Support/Diverse-Communities/African-American-Mental-Health)  
-- [Latinos](https://www.nami.org/Find-Support/Diverse-Communities/Latino-Mental-Health)  
+  - [Latinos](https://www.nami.org/Find-Support/Diverse-Communities/Latino-Mental-Health)  
 - [Family Members & Caregivers](https://www.nami.org/Find-Support/Family-Members-and-Caregivers)  
 - [LGBTQ folks](https://www.nami.org/Find-Support/LGBTQ)  
 - [Teens & Young Adults](https://www.nami.org/Find-Support/Teens-and-Young-Adults)  
