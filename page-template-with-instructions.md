@@ -57,7 +57,7 @@ published: false # the only other option is "true." changing this to "true" will
 
 ### Subsection Two  
 
-## Resources for Librarians  
+## Resources for Library Workers  
 
 ### Subsection One  
 

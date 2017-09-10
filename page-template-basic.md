@@ -15,7 +15,7 @@ published: false
 
 ### Subsection Two  
 
-## Resources for Librarians  
+## Resources for Library Workers  
 
 ### Subsection One  
 
