@@ -8,7 +8,8 @@ published: false
 
 ### Subsection One  
 
-[Link text one](http://www.example.com) lets you do a thing.  
-[Link text two](http://www.example.com) lets you do some other things.  
+Here's a paragraph.  
+
+Here's another paragraph.  
 
 ![alt text](public/images/dove-circle.png)  

@@ -53,6 +53,7 @@ published: false # the only other option is "true." changing this to "true" will
 ### Subsection One  
 
 [Link text one](http://www.example.com) lets you do a thing.  
+{% comment %} Add a blank line between links. That way each link is wrapped in a <p> tag and will get nicer visual spacing. {% endcomment %}
 [Link text two](http://www.example.com) lets you do some other things.  
 
 ### Subsection Two  

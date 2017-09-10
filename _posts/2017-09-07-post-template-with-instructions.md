@@ -56,8 +56,9 @@ published: false
 
 ### Subsection One  
 
-[Link text one](http://www.example.com) lets you do a thing.  
-[Link text two](http://www.example.com) lets you do some other things.  
+Here's a paragraph.  
+{% comment %} Skip a line between paragraphs so that each one gets wrapped in a <p> tag for better visual spacing. {% endcomment %} 
+Here's another paragraph.  
 
 ### Subsection Two  
 
