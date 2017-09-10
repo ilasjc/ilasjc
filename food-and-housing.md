@@ -22,10 +22,12 @@ This page provides resources for anyone experiencing food or housing insecurity.
 
 [CATCH program](http://www.catchprogram.org/)—Charitable Assistance to Community's Homeless serves Ada and Canyon Counties in Idaho  
 [Emergency and Transitional Housing Providers](http://www.housingidaho.com/Shelter.html) lists from Housing Idaho  
+
 [Homelessness Services Programs](https://www.idahohousing.com/homelessness-services-programs/) from the Idaho Housing and Finance Association help provide:  
 - [Continuum of Care](https://www.idahohousing.com/homelessness-services-programs/continuum-of-care/) to rehouse individuals and families while minimizing trauma and dislocation  
 - [Emergency Solutions Grants](https://www.idahohousing.com/homelessness-services-programs/emergency-solutions-grants/) helps with the first steps of moving toward independent, stable housing  
 - [Housing Opportunities for Persons With AIDS](https://www.idahohousing.com/homelessness-services-programs/hopwa/) HOPWA fulfills the housing and/or service needs of people living with HIV/AIDS.  
+
 [National Alliance to End Homelessness](https://endhomelessness.org) offers resources, factsheets, and toolkits.  
 [Safe Passage](https://www.safepassageid.org/) supports Idaho community members dealing with domestic and sexual violence. They provide 24hour crisis intervention for adults and children.  
 [SafeLink Wireless](https://www.safelinkwireless.com/Enrollment/Safelink/en/NewPublic/about_us.html) provides free wireless phone service to eligible households.  

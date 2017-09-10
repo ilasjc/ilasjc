@@ -27,13 +27,14 @@ published: true
 
 [The Icarus Project](http://theicarusproject.net) offers support and education by and for people who experience the world in ways often diagnosed as mental illness.  
 [MentalHealth.gov](https://www.mentalhealth.gov/index.html) from the U.S. Department of Health & Human Services offers information and a treatment locator.  
-[NAMI](https://www.nami.org), the National Alliance on Mental Illness  
- NAMI offers additional resources tailored for:  
+[NAMI](https://www.nami.org), the National Alliance on Mental Illness. They offer additional resources tailored for:  
+
 - [Diverse Communities](https://www.nami.org/Find-Support/Diverse-Communities), with additional pages for [African Americans](https://www.nami.org/Find-Support/Diverse-Communities/African-American-Mental-Health) and [Latinos](https://www.nami.org/Find-Support/Diverse-Communities/Latino-Mental-Health)  
 - [Family Members & Caregivers](https://www.nami.org/Find-Support/Family-Members-and-Caregivers)  
 - [LGBTQ folks](https://www.nami.org/Find-Support/LGBTQ)  
 - [Teens & Young Adults](https://www.nami.org/Find-Support/Teens-and-Young-Adults)  
 - [Veterans & Active Duty Members](https://www.nami.org/Find-Support/Veterans-and-Active-Duty)  
+
 [National Institute of Mental Health](https://www.nimh.nih.gov/health/find-help/index.shtml) has ways to get immediate help; to find a health care provider or treatment; to participate in a clinical trial; to find resources for service members, veterans, and their families; and to learn more about mental disorders.  
 [SAMHSA](https://www.samhsa.gov/), the Substance Abuse and Mental Health Services Administration, has resources to reduce the impact of substance abuse and mental illness on both individuals and communities.  
 [StopBullying.gov](https://www.stopbullying.gov) has information about spotting and stopping bullying. The information is for kids, teens, parents, and educators.  
