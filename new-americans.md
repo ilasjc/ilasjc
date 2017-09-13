@@ -34,9 +34,9 @@ published: true
 
 [Apps for Refugees](http://appsforrefugees.com) is a collection of free smartphone apps designed for refugees.  
 
-[¡Colorín colorado](http://www.colorincolorado.org) is a bilingual site for educators and families of English language learners (ELLs).  
+[¡Colorín colorado!](http://www.colorincolorado.org) is a bilingual site for educators and families of English language learners (ELLs).  
 
-[¡Colorín colorado](http://www.colorincolorado.org/es/home) orfrece una gran riqueza de información basda en la investigación, actividades y consejos bilingües para maestros y familias de estudiantes del idioma inglés (ELLs, por su siglas en inglés).  
+[¡Colorín colorado!](http://www.colorincolorado.org/es/home) orfrece una gran riqueza de información basda en la investigación, actividades y consejos bilingües para maestros y familias de estudiantes del idioma inglés (ELLs, por su siglas en inglés).  
 
 [National Immigration Legal Services Directory](https://www.immigrationadvocates.org/nonprofit/legaldirectory/) can help you find nonprofit organizations that provide free or low-cost immigration legal services.  
 
@@ -56,7 +56,7 @@ published: true
 
 ### Articles on Serving Refugees  
 
-["How to Support Refugee Students in the ELL Classroom"](http://www.colorincolorado.org/article/how-support-refugee-students-ell-classroom) article from _¡Colorin Colorado_ offers tips and links aimed at English Language Learners in classrooms. Many of these suggestions make sense in libraries as well.  
+["How to Support Refugee Students in the ELL Classroom"](http://www.colorincolorado.org/article/how-support-refugee-students-ell-classroom) article from _¡Colorin Colorado!_ offers tips and links aimed at English Language Learners in classrooms. Many of these suggestions make sense in libraries as well.  
 
 ["PTSD in Refugees"](https://www.ptsd.va.gov/professional/trauma/other/ptsd-refugees.asp) article from the VA explains the traumatic events refugees may have faced and discusses the challenges for effective treatment.  
 
@@ -72,7 +72,7 @@ Booklist Online's [Core Collection: Picture-Book Refugee and Immigration Stories
 
 [I'm Your Neighbor books](http://www.imyourneighborbooks.org) recommends children's books and reading projects to build bridges between "new arrivals" and "long-term communities."  
 
-The Refugee Experience booklists from [¡Colorín colorado](http://www.colorincolorado.org):  
+The Refugee Experience booklists from [¡Colorín colorado!](http://www.colorincolorado.org):  
 
 - [Refugees: Books for Children](http://www.colorincolorado.org/booklist/refugee-experience-books-children)  
 - [Refugees: Books for Middle Grades](http://www.colorincolorado.org/booklist/refugees-books-middle-grades)  
