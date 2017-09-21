@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About
+sticky: true
+title: About This Site
 ---
 
-## About This Site  
-{:.no-anchor}
-
-### Site Purpose  
+## Site Purpose  
 
 This site is meant to help you find or share resources. It's built by the Idaho Library Association's [Social Justice Committee](http://www.idaholibraries.org/social_justice_committee) to support our communities.  
 
-### Technical Information  
+## Site Technical Information  
 
 This site is built using [Jekyll](https://jekyllrb.com) and is hosted on [Github Pages](https://pages.github.com). The theme is a modified version of Karlo Espiritu's [BlackDoc Theme](https://github.com/karloespiritu/BlackDoc), which itself uses both [Poole](http://getpoole.com) and [Hyde](https://hyde.getpoole.com). The heading links use Bryan Braun's [Anchor.js](https://www.bryanbraun.com/anchorjs/). 
 

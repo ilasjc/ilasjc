@@ -4,6 +4,8 @@ title: LGBTQIA+
 published: true  
 ---  
 
+{% include toc.html %}  
+
 <p class="message">
   Hi there! We will be continually adding resources to this page.
 </p>

@@ -1,6 +1,7 @@
 ---  
 layout: page  
 title: page-template-basic  
+stick:  
 published: false  
 ---  
 

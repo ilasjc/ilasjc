@@ -1,6 +1,7 @@
 ---  
 layout: page # the only other option is "post", for blog posts. see the post template in the `_posts` folder.  
 title: page-template # this will be the <h1> of the published page. the title here doesn't have to be the same as the name of this file.  
+sticky: # if you want any pages to be listed above the main list of resources, write `true` here. If you write nothing (leaving it empty) or explicitly set it to `false` the page will be included in the main navigation list of resources. 
 published: false # the only other option is "true." changing this to "true" will publish the page and add it to our sidebar list automatically. github will automatically publish any file that starts at least two sets of `---` and ends with `.md`. including "published: false" lets us work on this file until we feel it's ready to go truly live… but people can still see our drafts if they know where to look on github.  
 ---  
 
