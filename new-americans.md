@@ -52,6 +52,8 @@ published: true
 
 [Bridging Refugee Youth and Children's Services](http://www.brycs.org) is designed to meet the information needs of professionals who encounter refugee and immigrant children and families in their work.  
 
+[Project Welcome](https://publish.illinois.edu/projectwelcome/) offers information for libraries seeking to better serve refugees and asylum seekers.  
+
 [REFORMA](https://www.reforma.org) is the National Association to Promote Library & Information Services to Latinos and the Spanish Speaking.  
 
 [Refugee Libraries](https://refugeelibraries.org) offers a wide range of resources to better serve our new neighbors, from toolkits to news stories to government resources.  
@@ -59,6 +61,8 @@ published: true
 ### Articles on Serving Refugees  
 
 ["How to Support Refugee Students in the ELL Classroom"](http://www.colorincolorado.org/article/how-support-refugee-students-ell-classroom) article from _¡Colorin Colorado!_ offers tips and links aimed at English Language Learners in classrooms. Many of these suggestions make sense in libraries as well.  
+
+["Project Welcome: Libraries planning for resettlement and integration of refugees"](https://americanlibrariesmagazine.org/2017/09/22/project-welcome-refugees/) _American Libraries_ article from 2017  
 
 ["PTSD in Refugees"](https://www.ptsd.va.gov/professional/trauma/other/ptsd-refugees.asp) article from the VA explains the traumatic events refugees may have faced and discusses the challenges for effective treatment.  
 
