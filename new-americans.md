@@ -84,3 +84,9 @@ The Refugee Experience booklists from [¡Colorín colorado!](http://www.colorinc
 - [Refugees: Books for Middle Grades](http://www.colorincolorado.org/booklist/refugees-books-middle-grades)  
 
 [Stories of Immigration](http://www.ala.org/alsc/sites/ala.org.alsc/files/content/compubs/booklists/Stories%20of%20Immigration%20Booklist%20FINAL%202.0.pdf) is a booklist of Pura Belpré Medal and Honor Books from [REFORMA](https://www.reforma.org) and [ALSC](http://www.ala.org/alsc/).  
+
+<!--
+<div style="background: #FFC247">
+<img style="display:block; margin:auto;" src="/public/images/dove.png">
+</div>
+-->
