@@ -14,7 +14,7 @@ published: true
 
 ### General Resources  
 
-[Agency for New Americans (ANA)](http://www.anaidaho.org) helps refugees achieve self-sufficienty in their new lives by providing the skills, education, and support necessary during their resettlement period.  
+[Agency for New Americans (ANA)](http://www.anaidaho.org) helps refugees achieve self-sufficiency in their new lives by providing the skills, education, and support necessary during their resettlement period.  
 
 [Disability Inclusion](https://www.womensrefugeecommission.org/disabilities/disability-inclusion) offers lessons and recommendations for engaging persons with disabilities during humanitarian work  
 

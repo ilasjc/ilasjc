@@ -14,4 +14,6 @@ This site is built using [Jekyll](https://jekyllrb.com) and is hosted on [Github
 
 Our site logo is [Freedom](https://thenounproject.com/visuadio/collection/la-paz/?i=1029373), part of Felipe Alvarado's [La Paz](https://thenounproject.com/visuadio/collection/la-paz/) collection available at the Noun Project. We cropped a close-up of it for our favicon (the little image in a browser address bar). 
 
-You're [welcome to adapt](https://github.com/ilasjc/ilasjc.github.io/blob/master/LICENSE.md) this site for your own needs. Start by forking and adapting [the source](https://github.com/ilasjc/ilasjc.github.io).  
+## Adapt This Site  
+
+This site is licensed CC-BY-SA. You're welcome—no, encouraged!—[to adapt](https://github.com/ilasjc/ilasjc.github.io/blob/master/LICENSE.md) it for your community's needs. Start by forking and altering [the source](https://github.com/ilasjc/ilasjc.github.io).  
